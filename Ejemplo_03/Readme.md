@@ -188,3 +188,7 @@ Realizamos clasificación con el mejor modelo ajustado y obtenemos la matriz de 
 table(true = dat[-train, "y"], 
       pred = predict(tune.out$best.model, newdata = dat[-train,]))
 ```
+
+Inspirado en: 
+
+[G. James et al., An Introduction to Statistical Learning: with Applications in R, Springer Texts in Statistics, DOI 10.1007/978-1-4614-7138-7_9, © Springer Science+Business Media New York 2013](http://faculty.marshall.usc.edu/gareth-james/ISL/)
