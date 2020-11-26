@@ -14,11 +14,11 @@ Realizar predicciones de una variable cuantitativa con base en variables predict
 - [Ejemplo 2](https://github.com/jennerfr/Sesion_5/tree/main/Ejemplo_02) Regresión lineal múltiple
 - [Ejemplo 3](https://github.com/jennerfr/Sesion_5/tree/main/Ejemplo_03) Máquinas de vectores de soporte
 
-# Retos de la sesión 5:
+#### Retos de la sesión 5:
 
 - [Reto 1]()
 - [Reto 2]()
 
-# Postwork de la sesión 5:
+#### Postwork de la sesión 5:
 
 - [Postwork]()
