@@ -2,7 +2,7 @@
 
 # Objetivo
 
-- Aprender como en ocasiones es posible predecir una variable numérica a partir de otras variables predictoras cuando existe una relación lineal entre las variables y sea razonable asumir algunos supuestos.
+- Aprender como en ocasiones es posible predecir una variable numérica a partir de otras variables predictoras cuando exista una relación lineal entre las variables y sea razonable asumir algunos supuestos.
 
 # Requisitos
 
