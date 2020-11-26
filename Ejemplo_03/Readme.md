@@ -2,7 +2,7 @@
 
 # Objetivo 
 
-- Conocer algunas funciones de `R` que nos ayudarán a llevar a cabo clasificaciones. Aprenderemos a divir un conjunto de datos dado, en dos conjuntos, uno llamado el conjunto de entrenamiento y el otro llamado el conjunto de prueba, desarrollaremos un clasificador con ayuda de `R` y del conjunto de entrenamiento y evaluaremos su desempeño con el conjunto de prueba. En la práctica un clasificador de esta naturaleza podría ser usado para ayudar a hacer diagnósticos de enfermedades, para decidir a quien otorgarle un crédito o a quien no y en general para clasificar personas en una de dos o más categorías.
+- Conocer algunas funciones de `R` que nos ayudarán a llevar a cabo clasificaciones. Aprenderemos a dividir un conjunto de datos dado, en dos conjuntos, uno llamado el conjunto de entrenamiento y el otro llamado el conjunto de prueba; desarrollaremos un clasificador con ayuda de `R` y del conjunto de entrenamiento y evaluaremos su desempeño con el conjunto de prueba. En la práctica un clasificador de esta naturaleza podría ser usado para ayudar a hacer diagnósticos de enfermedades, para decidir a quien otorgarle un crédito o a quien no y en general para clasificar personas en una de dos o más categorías.
 
 # Requisitos
 
