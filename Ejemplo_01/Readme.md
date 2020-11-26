@@ -1,5 +1,16 @@
 # Ejemplo 1. Regresión Lineal Simple
 
+# Objetivo
+
+- Predecir una variable numérica a partir de otra variable predictora, cuando exista una relación aproximadamente lineal entre las variables y sea razonable asumir algunos supuestos.
+
+# Requisitos
+
+- Tener instalado R y RStudio
+- Haber estudiado el Prework
+
+# Desarrollo
+
 Primero hay que establecer el directorio de trabajo y este deberá contener el archivo de datos **production.txt**
 
 Leemos nuestros datos con la función `read.table`
