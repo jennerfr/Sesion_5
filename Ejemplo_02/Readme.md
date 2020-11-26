@@ -1,6 +1,19 @@
 # Ejemplo 2. Regresión Lineal Múltiple
 
-Predecir el precio de cena (platillo). Datos de encuestas de clientes de 168 restaurantes Italianos en el área deseada están disponibles.
+# Objetivo
+
+- Aprender como en ocasiones es posible predecir una variable numérica a partir de otras variables predictoras cuando existe una relación lineal entre las variables
+
+# Requisitos
+
+- Tener instalado R y RStudio
+- Haber estudiado el Prework
+
+# Desarrollo
+
+#### Predecir el precio de cena (platillo). 
+
+Datos de encuestas de clientes de 168 restaurantes Italianos en el área deseada están disponibles.
 
 Y: Price (Precio): el precio (en USD) de la cena
 X1: Food: Valuación del cliente de la comida (sacado de 30)
