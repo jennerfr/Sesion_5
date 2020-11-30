@@ -16,7 +16,7 @@ Realizar predicciones de una variable cuantitativa con base en variables predict
 
 #### Retos de la sesión 5:
 
-- [Reto 1]()
+- [Reto 1](https://github.com/jennerfr/Sesion_5/tree/main/Reto_01)
 - [Reto 2]()
 
 #### Postwork de la sesión 5:
