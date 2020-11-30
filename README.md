@@ -21,4 +21,4 @@ Realizar predicciones de una variable cuantitativa con base en variables predict
 
 #### Postwork de la sesión 5:
 
-- [Postwork]()
+- [Postwork](https://github.com/jennerfr/Sesion_5/tree/main/Postwork)
