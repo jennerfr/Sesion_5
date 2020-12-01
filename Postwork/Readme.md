@@ -1,4 +1,15 @@
-# Postwork Sesión 5
+# Postwork Sesión 5.
+
+# Objetivo
+
+- Estimar probabilidades para los eventos "el equipo de casa gana", "el equipo visitante gana" y "el resultado es un empate" en partidos de futbol via regresión de Poisson.
+
+# Requisitos
+
+- Tener instalado R y RStudio
+- Haber trabajado con el Prework, el Work y seguir las siguientes instrucciones
+
+# Desarrollo
 
 1. A partir del conjunto de datos de soccer de la liga española de las temporadas 2017/2018, 2018/2019 y 2019/2020, creé el data frame `SmallData`, que contenga las columnas `date`, `home.team`, `home.score`, `away.team` y `away.score`; esto lo puede hacer con ayuda de la función `select` del paquete `dplyr`. Luego establezca un directorio de trabajo y con ayuda de la función `write.csv` guarde el data frame como un archivo csv con nombre *soccer.csv*. Puede colocar como argumento `row.names = FALSE` en `write.csv`. 
 2. Con la función `create.fbRanks.dataframes` del paquete `fbRanks` importe el archivo *soccer.csv* a `R` y al mismo tiempo asignelo a una variable llamada `listasoccer`. Se creará una lista con los elementos `scores` y `teams` que son data frames listos para la función `rank.teams`. Asigne estos data frames a variables llamadas `anotaciones` y `equipos`.
