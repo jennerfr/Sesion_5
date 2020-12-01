@@ -1,3 +1,16 @@
+# Reto 2. Ajuste de máquinas de vectores de soporte
+
+# Objetivo
+
+- Practicar el ajuste de máquinas de vectores de soporte a datos en `R` y evaluar su desempeño utilizando un conjunto de prueba.
+
+# Requisitos
+
+- Tener instalado R y RStudio
+- Haber trabajado con el Prework y el Work
+
+# Desarrollo
+
 En el archivo de datos csv adjunto se encuentran observaciones correspondientes a dos clases diferentes indicadas por la variable `y`. Únicamente hay dos variables predictoras o características. Realice lo siguiente:
 
 1. Cargue los paquetes `ggplot2` y `e1071`; observe algunas características del data frame con las funciones `tail` y `dim`. Obtenga el gráfico de dispersión de los datos diferenciando las dos clases.
